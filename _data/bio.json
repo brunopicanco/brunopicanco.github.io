@@ -17,23 +17,23 @@
     "profiles": [
       {
         "network": "github",
-        "username": "brunopicanco",
-        "url": "http://github.com/changeme"
+        "username": "Github",
+        "url": "http://github.com/brunopicanco"
       },
       {
         "network": "linkedin",
-        "username": "brunopicanco",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Linkedin",
+        "url": "http://linkedin.com/in/brunopicanco"
       },
       {
         "network": "twitter",
-        "username": "brunopicanco",
-        "url": "http://twitter.com/changeme"
+        "username": "Twitter",
+        "url": "http://twitter.com/brunopicanco"
       },
       {
         "network": "instagram",
-        "username": "brunopicanco",
-        "url": "http://instagram.com/changeme"
+        "username": "Instagram",
+        "url": "http://instagram.com/brunopicanco"
       }
     ]
   },
