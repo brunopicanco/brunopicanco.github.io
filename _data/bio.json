@@ -1,38 +1,38 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Bruno Dias",
+    "label": "Software Developer / Web Designer",
+    "picture": "https://brunopicanco.github.io/images/bruno.jpg",
+    "email": "bruno.argc@gmail.com",
+    "phone": "774-578-3942",
+    "website": "https://brunopicanco.github.io",
+    "summary": "Senior Web Developer specializing in front end development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including JavaScript, SQL, and C. Strong background in project management and customer relations.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "34116",
+      "city": "Naples",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Florida"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "brunopicanco",
         "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "brunopicanco",
         "url": "http://linkedin.com/in/changeme"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "brunopicanco",
         "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
-        "username": "molly",
+        "username": "brunopicanco",
         "url": "http://instagram.com/changeme"
       }
     ]
@@ -83,11 +83,11 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Universidade de Sao Paulo - UNIP",
+      "area": "Computer Science, Software Engenieer",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2010-09-01",
+      "endDate": "2014-10-22",
       "gpa": "",
       "courses": [
       ]
