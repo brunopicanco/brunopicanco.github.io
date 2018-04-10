@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/phoenixgranite.png
 title: Phoenix Granite USA
-permalink: projects/vacay
+permalink: projects/phoenixgranite
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-15
 labels:
