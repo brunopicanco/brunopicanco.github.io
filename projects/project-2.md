@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/phoenixgranite.png.png
+image: images/phoenixgranite.png
 title: Phoenix Granite USA
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
