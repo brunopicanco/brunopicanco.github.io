@@ -13,7 +13,7 @@ labels:
 summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
 ---
 
-<div class="ui small rounded images">
+<div class="ui large rounded images"> 
   <img class="center" src="../images/sourcestone.png"> 
 </div>
 
