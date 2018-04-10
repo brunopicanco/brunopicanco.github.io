@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/sourcestone.png
 title: Source Stone
-permalink: projects/micromouse
+permalink: projects/sourcestone
 # All dates must be YYYY-MM-DD format!
 date: 2017-07-01
 labels:
